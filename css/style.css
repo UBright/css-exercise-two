@@ -66,9 +66,15 @@ a:hover{
 
 h1 {
   font-size:40px;
+  padding-bottom: 20px;
 }
 
 h3 {
   font-size: 25px; color: white;
   background-color: #838487;
+  padding: 10px;
+}
+
+figcaption{
+  margin-bottom: 20px;
 }
